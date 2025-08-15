@@ -1,0 +1,4 @@
+plan_id,payment_frequency_code,unique_users,total_sessions,avg_session_length,avg_score,total_revenue
+3,ONETIME,74,289,"",2518.60553633218,4332.109999999995
+2,ANNUALLY,66,235,"",2627.4765957446807,2347.65
+1,MONTHLY,71,291,"",2466.0274914089346,579.0900000000001
