@@ -11,6 +11,7 @@ The pipeline performs:
 
 ## Project Structure
 
+```
 FCC-assessment/
 │── data/ # Source CSV files (input datasets)
 │ ├── channel_code.csv
@@ -27,3 +28,4 @@ FCC-assessment/
 │── main.py # PySpark ETL script (this file)
 │── requirements.txt # Dependencies
 │── README.md # Documentation
+```
