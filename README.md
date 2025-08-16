@@ -9,7 +9,7 @@ Data quality validation (null checks, date consistency, range checks)
 Insights generation (user engagement, revenue, MAU trends, channel analysis)
 Output storage as Parquet and CSV
 
-FCC-assessement/
+FCC-assessment/
 │── data/                      # Source CSV files (input datasets)
 │   ├── channel_code.csv
 │   ├── status_code.csv
